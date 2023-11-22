@@ -1,6 +1,4 @@
-LeadMark Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
-
-Product Page: https://wwww.devcrud.com/
+This is Gian Aibo C. Boyero's Portfolio
 
 Credits:
 
