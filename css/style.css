@@ -425,6 +425,12 @@ a:hover {
   font-weight: 600;
 }
 
+.navbar-b.navbar-trans .nav-link-special,
+.navbar-b.navbar-reduce .nav-link-special{
+  color: #fffc5c;
+  text-transform: uppercase;
+  font-weight: 600;
+}
 .navbar-b.navbar-trans .nav-link:before,
 .navbar-b.navbar-reduce .nav-link:before {
   content: '';
